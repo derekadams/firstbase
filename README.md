@@ -19,4 +19,6 @@ This will start the Spring Boot application which includes a Swagger UI wrapper 
 
 [http://localhost:8080/firstbase/swagger-ui/index.html](http://localhost:8080/firstbase/swagger-ui/index.html)
 
+![image](https://user-images.githubusercontent.com/338921/118195750-cb203600-b419-11eb-8211-87d8a7a336cc.png)
+
 Note that all of the REST APIs are relative to the context `firstbase`.
