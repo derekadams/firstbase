@@ -1,0 +1,11 @@
+type Employee {
+    id: ID!
+    firstName: String
+    lastName: String
+    jobTitle: String!
+    pictureUrl: String
+}
+
+type Query {
+    employees(page: Int, pageSize: Int): [Employee]!
+}
